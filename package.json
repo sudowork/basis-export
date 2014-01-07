@@ -8,6 +8,9 @@
     "optimist": "~0.6.0"
   },
   "devDependencies": {},
+  "bin": {
+    "basis-export": "bin/basis-export"
+  },
   "scripts": {
   },
   "repository": {
