@@ -2,11 +2,17 @@
 
 A Node.js module and command-line utility to export Basis B1 data.
 
+## Installation
+
+```shell
+$ npm install -g basis-export
+```
+
 ## Usage
 
 ```shell
-$ ./basis-export
-Usage: node ./basis-export [options] username
+$ basis-export
+Usage: basis-export [options] username
 
 Options:
   -d, --date    Date to get data for [default: yesterday]
