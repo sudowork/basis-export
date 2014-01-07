@@ -1,0 +1,21 @@
+{
+  "name": "basis-export",
+  "version": "0.1.0",
+  "description": "Tool to export Basis B1 data",
+  "main": "lib/basis-export.js",
+  "dependencies": {
+    "request": "~2.30.0",
+    "optimist": "~0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sudowork/basis-export.git"
+  },
+  "author": "Kevin Gao",
+  "bugs": {
+    "url": "https://github.com/sudowork/basis-export/issues"
+  }
+}
